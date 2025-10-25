@@ -76,7 +76,3 @@ Please refer to the attached PDF file for the presentation materials.
 
 We shared updates and insights while enjoying a warm networking time. See you at the next meetup! 🍁
 
-### 🎉 Photos
-
-![image](https://github.com/user-attachments/assets/1d90b4cc-98e5-4ec4-bac1-7f8e22ada451)
-![image](https://github.com/user-attachments/assets/bdc6835d-484b-4f42-b6d5-9bcb69eaf989)
