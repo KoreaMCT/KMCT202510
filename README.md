@@ -35,5 +35,48 @@
 여러분의 근황과 인사이트를 함께 나누며 따뜻한 네트워킹 시간을 가졌습니다. 다음 밋업에서 또 뵙겠습니다! 🍁
 
 ## 🎉 사진
-<img width="1834" height="1036" alt="image" src="https://github.com/user-attachments/assets/1d90b4cc-98e5-4ec4-bac1-7f8e22ada451" />
-<img width="1772" height="1012" alt="image" src="https://github.com/user-attachments/assets/bdc6835d-484b-4f42-b6d5-9bcb69eaf989" />
+
+![image](https://github.com/user-attachments/assets/1d90b4cc-98e5-4ec4-bac1-7f8e22ada451)
+![image](https://github.com/user-attachments/assets/bdc6835d-484b-4f42-b6d5-9bcb69eaf989)
+
+---
+
+## 🌟 Korea MCT Online Meetup 202510 🌟
+
+### 📅 Event Overview
+
+- **Date**: Friday, October 24, 2025, 9:00 PM–10:30 PM (KST)
+- **Location**: Microsoft Teams
+- **Audience**: Current and former MCTs (or anyone interested)
+- **Host**: Woo Jinhwan
+
+### 🎉 Event Summary
+
+On October 24, 2025, the Korea MCT regular meetup was successfully held online via Microsoft Teams. A total of 15 participants joined the event, which featured updates on the MCT program and insightful presentations by MyungShin Kim and JinHwan Woo. The event proceeded smoothly and warmly as planned.
+
+#### 📝 Program
+
+1. 📸 **Group Photo and Korea MCT Introduction**
+2. 🤝 **Getting Acquainted (Round Introductions)**
+3. 🔄 **MCT Program Sync** — SungJin Ahn
+4. 📖 **MCT Blog Reading** — MyungShin Kim
+5. 📊 **Using the COPILOT Function in Excel** — JinHwan Woo
+6. 🎯 **Team Activity** — SungHo You
+7. 🗨️ **Closing and Casual Chat**
+
+### 📊 Feedback Link
+
+[Participate in the Survey](https://forms.office.com/r/v47c3pm2FJ)
+
+### 📂 Presentation Materials
+
+Please refer to the attached PDF file for the presentation materials.
+
+### 🌙 Closing Remarks
+
+We shared updates and insights while enjoying a warm networking time. See you at the next meetup! 🍁
+
+### 🎉 Photos
+
+![image](https://github.com/user-attachments/assets/1d90b4cc-98e5-4ec4-bac1-7f8e22ada451)
+![image](https://github.com/user-attachments/assets/bdc6835d-484b-4f42-b6d5-9bcb69eaf989)
