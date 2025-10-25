@@ -28,7 +28,7 @@
 
 ## 📂 발표 자료
 
-발표 자료는 PDF 파일을 참고해주세요.
+발표 자료는 [여기](https://github.com/KoreaMCT/KMCT202510/blob/main/Korea%20MCT%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B2%99%EA%B0%9C%20202510%20%EB%B0%9C%ED%91%9C.pdf)에서 확인해주세요.
 
 ## 🌙 마무리
 
@@ -70,7 +70,8 @@ On October 24, 2025, the Korea MCT regular meetup was successfully held online v
 
 ### 📂 Presentation Materials
 
-Please refer to the attached PDF file for the presentation materials.
+Please refer to the [presentation materials](https://github.com/KoreaMCT/KMCT202510/blob/main/Korea%20MCT%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B2%99%EA%B0%9C%20202510%20%EB%B0%9C%ED%91%9C.pdf) here.
+
 
 ### 🌙 Closing Remarks
 
