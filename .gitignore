@@ -1,0 +1,59 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+tmp/
+
+# Build Artifacts
+dist/
+build/
+*.log
+
+# Dependency Directories
+node_modules/
+bower_components/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv
+
+# .NET
+bin/
+obj/
+*.suo
+*.user
+
+# Java
+*.class
+target/
+
+# Archives (usually too large)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large media files (link instead)
+*.mp4
+*.avi
+*.mov
+*.wmv
