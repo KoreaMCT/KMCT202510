@@ -34,3 +34,5 @@
 여러분의 근황과 인사이트를 함께 나누며 따뜻한 네트워킹 시간을 가졌습니다. 다음 밋업에서 또 뵙겠습니다! 🍁
 
 ## 🎉 사진
+<img width="1834" height="1036" alt="image" src="https://github.com/user-attachments/assets/1d90b4cc-98e5-4ec4-bac1-7f8e22ada451" />
+<img width="1772" height="1012" alt="image" src="https://github.com/user-attachments/assets/bdc6835d-484b-4f42-b6d5-9bcb69eaf989" />
